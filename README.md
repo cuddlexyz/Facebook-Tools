@@ -10,6 +10,6 @@ Kumpulan Tools Facebook
 # $ pip2 install -r requirements.txt
 # $ pip2 install bs4
 # $ pip2 install urllib3 chardet ceritifi idna requests 
-# $ git clone https://github.com/Behttps://github.com/Makky2693/Facebook-Tools
+# $ git clone https://github.com/Makky2693/Facebook-Tools
 # $ cd Facebook-Tools
 # $ sh FB.sh
